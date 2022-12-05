@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-image: url(imagenes/imagen.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;	
+}
+
+h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFF;
+	font-size: 36px;
+}
+
+h3 {
+	font-family: "Times New Roman", Times, serif;
+	color: #FFF;
+	font-size: 24px;
+}
